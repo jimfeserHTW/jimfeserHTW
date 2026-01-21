@@ -1,16 +1,50 @@
-## Hi there 👋
+## Über mich
 
-<!--
-**jimfeserHTW/jimfeserHTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Student im 3. Semester Wirtschaftsinformatik an der HTW Berlins
 
-Here are some ideas to get you started:
+### Kenntnisse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programmiersprachen:**
+	- Java
+	- Python
+	- C
+	- C++
+- **Webentwicklung:**
+	- JavaScript (JS)
+	- TypeScript (TS)
+	- HTML
+	- CSS
+	- Vue.js
+- **Datenbanken:**
+	- SQL
+
+## Kontakt
+
+- E-Mail: jim.feser@student.htw-berlin.de
+- LinkedIn: [linkedin.com/in/jim-f](https://www.linkedin.com/in/jim-keanu-f-294a14389)
+
+## Projekte
+
+- **webApp** – REST-API für Postgresql Datenbankzugriffe mit Hibernate
+- **webAppFrontend** – SPA Raumreservierungssystem mit Vue.js
+
+## Interessen
+
+- Data Science
+- Backendentwicklung
+- Softwarearchitektur
+- Softwareoptimierung/Tuning
+
+## Ziele
+
+- Praktikum im Bereich Softwareentwicklung absolvieren
+- Open Source Beiträge leisten
+
+## Sprachen
+
+- Deutsch (Muttersprache)
+- Englisch (fließend)
+- Französisch (Grundlagen)
+
+---
+*Stand: Januar 2026*
